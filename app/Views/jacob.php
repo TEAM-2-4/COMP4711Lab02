@@ -34,6 +34,7 @@
     <header>
             <h1>Jacob Smith</h1>
             <p>BCIT Computer Systems Student</p>
+            <p>Tech Entrepreneurship</p>
         </header>
   </body>
 </html>
