@@ -13,6 +13,8 @@ class Home extends Controller
         return view('jacob');
     }
 
-	//--------------------------------------------------------------------
+	public function jono(){
+        return view('jono');
+    }
 
 }
