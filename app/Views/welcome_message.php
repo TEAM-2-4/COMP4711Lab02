@@ -106,9 +106,9 @@
 
 			<div class="guide">
 				<ul>
-                    <li><a href="/welcome/Jacob">Jacob</a></li>
-                    <li><a href="/welcome/Jonathan">Jonathan</a></li>
-                    <li><a href="/welcome/Chenxi">Chenxi</a></li>
+                    <li><a href="/Home/jacob">Jacob</a></li>
+                    <li><a href="/Home/jono">Jonathan</a></li>
+                    <li><a href="/Home/chenxi">Chenxi</a></li>
                 </ul>
 
 			</div>
